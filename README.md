@@ -8,3 +8,4 @@
 6. Entity Framework Core - October 2019
 7. C# Web Basics - January 2020
 8. ASP.NET Core - February 2020 
+9. JS Advanced - May 2020
